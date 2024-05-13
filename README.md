@@ -14,10 +14,12 @@ Getting Started:
 
 To start using backupdnszones, follow these simple steps:
 
-Clone or download the repository to your local machine.
-Make sure you have the necessary permissions to access and back up DNS zones on your network.
-Customize the script according to your requirements, such as specifying the location for storing backups.
-Run the script either manually or schedule it to run automatically at specified intervals using task scheduler or a similar tool.
+1 - Clone or download the repository to your local machine.
+2 - Make sure you have the necessary permissions to access and back up DNS zones on your network.
+3 - Customize the script according to your requirements, such as specifying the location for storing backups.
+4 - Run the script either manually or schedule it to run automatically at specified intervals using task scheduler or a similar tool.
+
 Contributing:
 
-Contributions to backupdnszones are welcome! If you have any ideas for improvements, new features, or bug fixes, please feel free to submit a pull request or open an issue on GitHub. Your feedback and contributions help make backupdnszones even better for the community.
+Contributions to backupdnszones are welcome! If you have any ideas for improvements, new features, or bug fixes, please feel free to submit a pull request or open an issue on GitHub. 
+Your feedback and contributions help make backupdnszones even better for the community.
